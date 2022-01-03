@@ -1,17 +1,17 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Kodosaur",
+    subtitle: "Ruby on Rails JavaScript CSS-Sass Bootstrap PostgreSQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Kodosaur is the Le Wagon's Boot Camp final project, it was built by a team of 4 students. It is a game platform that teaches kids basic coding and logic concepts.",
     image: "./kodosaur.jpeg",
     link: "https://kodosaur.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Dark Market",
+    subtitle: "Ruby on Rails JavaScript CSS-Sass Bootstrap PostgreSQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Dark Market is a full stack e-commerce platform which we developed at Le Wagon Boot Camp. Imagine a Post Apocalyptic world in which users need to buy survival essentials.",
     image: "./dark-market.jpeg",
     link: "https://dark-market766.herokuapp.com/",
   },
