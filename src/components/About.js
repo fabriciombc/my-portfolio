@@ -30,9 +30,10 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            // className="object-cover object-center rounded"
+            className="inline object-cover w-60 h-60 mr-2 rounded-full"
             alt="hero"
-            src="./fabricio-1.png"
+            src="./avatar.jpeg"
           />
         </div>
       </div>
