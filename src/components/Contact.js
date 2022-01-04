@@ -72,8 +72,8 @@ export default function Contact() {
             Get in touch
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            If you liked my work and want to reach out and discuss how can we contribute in future projects,
+            please leave your name, email and a text message.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
