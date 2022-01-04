@@ -12,7 +12,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I love to work in teams and developing amazing web application solutions.
             Thanks for checking out my professional portfolio.
-            I built this website with <strong>React Native</strong> and <strong>Tailwind CSS</strong>.
+            I built this website with <strong>React</strong> and <strong>Tailwind CSS</strong>.
 
           </p>
           <div className="flex justify-center">
