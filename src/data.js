@@ -15,14 +15,14 @@ export const projects = [
     image: "./dark-market.jpeg",
     link: "https://dark-market766.herokuapp.com/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  {
+    title: "React Task Tracker",
+    subtitle: "React.js and Node.js",
+    description:
+      "This is a simple task tracker application which was built using React.js and Node.js. The application was deployed on Heroku and the live version can seen by clicking on this card.",
+    image: "./React-Task-Tracker.png",
+    link: "https://react-task-traker-2022.herokuapp.com/",
+  },
   // {
   //   title: "Epic Todo App",
   //   subtitle: "React Hooks",
