@@ -23,14 +23,14 @@ export const projects = [
     image: "./React-Task-Tracker.png",
     link: "https://react-task-traker-2022.herokuapp.com/",
   },
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  {
+    title: "Employee Database",
+    subtitle: "Under Construction",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./mern.png",
+    // link: "https://reactbootcamp.com",
+  },
 ];
 
 export const testimonials = [
