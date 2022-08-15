@@ -3,7 +3,7 @@ export const projects = [
     title: "Vanila JS Sprite Animation",
     subtitle: "JavaScript CSS HTML",
     description:
-      "First part of an ongoing JavaScript Game project ",
+      "First part of an ongoing JavaScript Game project In this project I've used array iteration, loops and object declaration. in this first part I am animating a sprite data file as the first part of a much longer game project."
     image: "./sprite.jpeg",
     link: "https://vanila-js-sprite-animation.netlify.app/",
   },
