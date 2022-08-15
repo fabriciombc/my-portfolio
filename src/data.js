@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Vanila JS Sprite Animation",
+    subtitle: "JavaScript CSS HTML",
+    description:
+      "First part of an ongoing JavaScript Game project ",
+    image: "./sprite.jpeg",
+    link: "https://vanila-js-sprite-animation.netlify.app/",
+  },
+  {
     title: "Kodosaur",
     subtitle: "Ruby on Rails JavaScript CSS-Sass Bootstrap PostgreSQL",
     description:
