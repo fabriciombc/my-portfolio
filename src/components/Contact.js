@@ -45,7 +45,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                3736 Coast Meridian Rd <br />
+                1000 Coast Meridian Rd <br />
                 Port Coquitlam, BC V3B3P1
               </p>
             </div>
